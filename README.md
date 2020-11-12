@@ -4,6 +4,9 @@
 
 ### ESP-12F powered piggyback PCB for the SDS011 fine dust sensor
 
+The board is designed to run with the luftdaten.info firmware and has a place for a BME280 sensor.
+
+Pic of the prototype (with enamel wire because it wouldn't be a prototype without it).
 <img src="https://i.aggressive.pizza/feinstaub.jpg" alt="prototype" width="500"/>
 
 This work is licensed under a
