@@ -11,8 +11,7 @@ Pic of the prototype (with enamel wire because it wouldn't be a prototype withou
 
 ---
 
-<img src="front.png" alt="render_front" width="300"/>
-<img src="back.png" alt="render_back" width="300"/>
+<img src="front.png" alt="render_front" width="300"/><img src="back.png" alt="render_back" width="300"/>
 
 ---
 
