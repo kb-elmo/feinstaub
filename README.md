@@ -13,6 +13,19 @@ Pic of the prototype (with enamel wire because it wouldn't be a prototype withou
 
 ---
 
+### BOM
+ |Count|Part|Reference|Part URL|
+ |-|-|-|-|
+ |1|ESP12-F|U1|[ESP-12F](https://octopart.com/2491-adafruit+industries-65271392)
+ |1|Bosch BME-280 module|U2|[BME280](https://www.ebay.de/itm/255421634848)
+ |1|Nova Fitness SDS-011 Module|---|[SDS-011](https://www.ebay.de/itm/255283289438)
+ |1|AMS1117-3.3v step-down module|U3|[AMS1117-3.3 module](https://www.ebay.de/itm/174076431478)
+ |1|DIP switch|SW1|[DIP-Switch](https://www.ebay.de/itm/255421634848)
+ |1|100 nF ceramic disk capacitor|C1|[Kemet C315C104M5U5TA](https://octopart.com/c315c104m5u5ta-kemet-83288)
+ |4|10 kΩ resistor|R1-R4|[Multicomp MF25 10k](https://octopart.com/mf25+10k-multicomp-2697429)
+
+---
+
 <img src="front.png" alt="render_front" width="300"/><img src="back.png" alt="render_back" width="300"/>
 
 ---
