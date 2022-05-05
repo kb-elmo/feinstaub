@@ -30,7 +30,7 @@ The SDS011 module gets connected to the J2 pins on the main PCB.
 Remember that TX and RX have to be connected in reverse on the module.
 
 The ESP chip can be flashed by connecting an ISP flasher to the J1 pins.  
-To put the chip into flashing mode set the boot switch to on, plug in the power and then turn the switch back off.
+To put the chip into flashing mode set the boot switch to on, plug in the power and then turn the switch back off.  
 The easiest method of flashing the chip is by using the [AirRohr firmware updater](https://github.com/opendata-stuttgart/airrohr-firmware-flasher)
 
 For the main power input a 5v / 0.5-1A power supply should be used.
