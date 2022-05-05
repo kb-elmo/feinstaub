@@ -24,6 +24,17 @@ Pic of the prototype (with enamel wire because it wouldn't be a prototype withou
  |1|100 nF ceramic disk capacitor|C1|[Kemet C315C104M5U5TA](https://octopart.com/c315c104m5u5ta-kemet-83288)
  |4|10 kΩ resistor|R1-R4|[Multicomp MF25 10k](https://octopart.com/mf25+10k-multicomp-2697429)
 
+
+#### Assembly notes
+The SDS011 module gets connected to the J2 pins on the main PCB.  
+Remember that TX and RX have to be connected in reverse on the module.
+
+The ESP chip can be flashed by connecting an ISP flasher to the J1 pins.  
+To put the chip into flashing mode set the boot switch to on, plug in the power and then turn the switch back off.
+
+DO NOT CONNECT BOTH THE MAIN POWER AND A FLASHER MODULE WITH POWER INPUT AT ONCE!!!  
+If you use a flashing device that has power output on it's own the main power has to be left unconnected.
+
 ---
 
 <img src="front.png" alt="render_front" width="300"/><img src="back.png" alt="render_back" width="300"/>
