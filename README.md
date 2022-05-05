@@ -32,8 +32,10 @@ Remember that TX and RX have to be connected in reverse on the module.
 The ESP chip can be flashed by connecting an ISP flasher to the J1 pins.  
 To put the chip into flashing mode set the boot switch to on, plug in the power and then turn the switch back off.
 
-DO NOT CONNECT BOTH THE MAIN POWER AND A FLASHER MODULE WITH POWER INPUT AT ONCE!!!  
-If you use a flashing device that has power output on it's own the main power has to be left unconnected.
+For the main power input a 5v / 0.5-1A power supply should be used.
+
+DO NOT CONNECT BOTH THE MAIN POWER AND A USB FLASHER WITH POWER INPUT AT ONCE!!!  
+If you use a flashing device that has 3.3v power output on it's own the main power has to be left unconnected.
 
 ---
 
