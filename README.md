@@ -16,7 +16,7 @@ Pic of the prototype (with enamel wire because it wouldn't be a prototype withou
 ### BOM
  |Count|Part|Reference|Part URL|
  |-|-|-|-|
- |1|ESP12-F|U1|[ESP-12F](https://octopart.com/2491-adafruit+industries-65271392)
+ |1|ESP12-F|U1|[ESP-12F](https://www.ebay.de/itm/255303527301)
  |1|Bosch BME-280 module|U2|[BME280](https://www.ebay.de/itm/255421634848)
  |1|Nova Fitness SDS-011 Module|---|[SDS-011](https://www.ebay.de/itm/255283289438)
  |1|AMS1117-3.3v step-down module|U3|[AMS1117-3.3 module](https://www.ebay.de/itm/174076431478)
